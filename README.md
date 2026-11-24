@@ -10,33 +10,34 @@
  4. 2.5 Mbps or faster download; 500 Kbps or faster upload 
  
  ## PROCEDURE
- 1.	Open new file and then select sketch icon.
- 2.	Select the plane for sketching. 
- 3.	Use sketching features (line, circle, arc, rectangle, polygon, etc.,) to draw the given sketch.
- 
- ![image](https://user-images.githubusercontent.com/113594316/198232594-2187c1c1-4e85-437f-99f7-263bb1a3e968.png)
- 4.	Use sketch modifying features (cut, trim, mirror, move, etc.,) to edit the sketch.
- 
- ![image](https://user-images.githubusercontent.com/113594316/198232771-48e6582d-4410-430a-a9d4-70e400255580.png)
- 
- 5.	Use inspect feature to measure the dimensions of sketch.
- 
- ![image](https://user-images.githubusercontent.com/113594316/198232845-1608e574-732c-44b2-9921-39e920b70e2e.png)
- 
- 6.	After finishing the sketch use finish sketch option to finalize the sketch.
- ![image](https://user-images.githubusercontent.com/113594316/198232907-8275f39c-9031-4cf4-b0c4-8eb568e477ab.png)
- 7.	After finishing the sketch switch to drawing mode to plot the sketch in ISO standard
- 
- ![image](https://user-images.githubusercontent.com/113594316/198232997-7172a35b-79a2-45e4-88a3-5e741b4d90ce.png)
- 
- ![image](https://user-images.githubusercontent.com/113594316/198233011-28615257-fc2b-4c81-852a-49722c948e07.png)
- 
- 
- ## SKETCH
- ![image](https://user-images.githubusercontent.com/113594316/198233336-dd9f5c19-481b-486a-928a-99c32a732f89.png)
 
- ## OUTPUT
- 
- 
+1.Open the software and create a new sketch.
+
+2.Select the required sketch plane.
+
+3.Use sketch tools to draw the required shapes.
+
+<img width="320" height="506" alt="Screenshot 2026-11-15 124347" src="https://github.com/user-attachments/assets/ef0e8df4-1ce8-4f67-8409-1afc6be7d007" />
+
+4.Modify the sketch using editing tools.
+
+<img width="202" height="357" alt="Screenshot 2026-11-15 124514" src="https://github.com/user-attachments/assets/a6125d55-ffb6-427c-99e5-7052c58ee916" />
+
+5.Check the sketch dimensions using inspect.
+
+<img width="291" height="492" alt="Screenshot 2026-11-15 124545" src="https://github.com/user-attachments/assets/7a76f75d-7277-4e9b-8236-91012a66dbbe" />
+
+6.Click finish sketch to complete the drawing.
+
+<img width="256" height="172" alt="Screenshot 2026-11-15 124609" src="https://github.com/user-attachments/assets/345396b5-be1d-454e-a68d-0f7467942c50" />
+
+7.Change the drawing mode.
+
+<img width="336" height="412" alt="Screenshot 2026-11-15 124628" src="https://github.com/user-attachments/assets/24d1715a-7a3a-4e05-9077-79e1f1f6a7eb" />
+
  ## RESULT
  Thus the given sketch is drawn and drafted using fusion 360 tool.
+
+ <img width="792" height="688" alt="Screenshot 2026-11-11 142859" src="https://github.com/user-attachments/assets/26bde1ba-194e-464a-a62b-1010d173fdb3" />
+
+<img width="1013" height="706" alt="Screenshot 2026-11-11 185434" src="https://github.com/user-attachments/assets/37bd7c63-6ac1-424f-87d5-5674365078ff" />
